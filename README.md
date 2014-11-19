@@ -6,3 +6,4 @@ To-do:
 
 1. Align svg result images.
 2. Add reset button.
+3. Investigate font issues.
