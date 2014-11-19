@@ -52,7 +52,6 @@
 		<item id="x4504.png" href="image/4504.png" media-type="image/png" />
 		<item id="x4505.png" href="image/4505.png" media-type="image/png" />
 		<item id="x4506.png" href="image/4506.png" media-type="image/png" />
-		<item id="x4507.png" href="image/4507.png" media-type="image/png" />
 		<item id="x4509.png" href="image/4509.png" media-type="image/png" />
 		<item id="x4511.png" href="image/4511.png" media-type="image/png" />
 		<item id="x4512.png" href="image/4512.png" media-type="image/png" />
@@ -62,52 +61,21 @@
 		<item id="x4516.png" href="image/4516.png" media-type="image/png" />
 		<item id="x4517.png" href="image/4517.png" media-type="image/png" />
 		<item id="x4518.png" href="image/4518.png" media-type="image/png" />
-		<item id="x4519.png" href="image/4519.png" media-type="image/png" />
-		<item id="x4520.png" href="image/4520.png" media-type="image/png" />
-		<item id="x4521.png" href="image/4521.png" media-type="image/png" />
-		<item id="x4522.png" href="image/4522.png" media-type="image/png" />
-		<item id="x4524.png" href="image/4524.png" media-type="image/png" />
-		<item id="x4525.png" href="image/4525.png" media-type="image/png" />
-		<item id="x4526.png" href="image/4526.png" media-type="image/png" />
-		<item id="x4527.png" href="image/4527.png" media-type="image/png" />
 		<item id="x4574.png" href="image/4574.png" media-type="image/png" />
-		<item id="x4575.png" href="image/4575.png" media-type="image/png" />
-		<item id="x4576.png" href="image/4576.png" media-type="image/png" />
-		<item id="x4577.png" href="image/4577.png" media-type="image/png" />
-		<item id="x4578.png" href="image/4578.png" media-type="image/png" />
 		<item id="x4579.png" href="image/4579.png" media-type="image/png" />
-		<item id="x4581.png" href="image/4581.png" media-type="image/png" />
-		<item id="x4582.png" href="image/4582.png" media-type="image/png" />
-		<item id="x4583.png" href="image/4583.png" media-type="image/png" />
-		<item id="x4584.png" href="image/4584.png" media-type="image/png" />
-		<item id="x4585.png" href="image/4585.png" media-type="image/png" />
-		<item id="x4586.png" href="image/4586.png" media-type="image/png" />
-		<item id="x4587.png" href="image/4587.png" media-type="image/png" />
-		<item id="x4588.png" href="image/4588.png" media-type="image/png" />
-		<item id="x4589.png" href="image/4589.png" media-type="image/png" />
-		<item id="x4590.png" href="image/4590.png" media-type="image/png" />
 		<item id="x4706.png" href="image/4706.png" media-type="image/png" />
 		<item id="x4707.png" href="image/4707.png" media-type="image/png" />
 		<item id="x4708.png" href="image/4708.png" media-type="image/png" />
 		<item id="x4709.png" href="image/4709.png" media-type="image/png" />
 		<item id="x4710.png" href="image/4710.png" media-type="image/png" />
 		<item id="x4711.png" href="image/4711.png" media-type="image/png" />
-		<item id="x5104.png" href="image/5104.png" media-type="image/png" />
-		<item id="x5105.png" href="image/5105.png" media-type="image/png" />
-		<item id="x5152.png" href="image/5152.png" media-type="image/png" />
-		<item id="x5153.png" href="image/5153.png" media-type="image/png" />
-		<item id="x5201.png" href="image/5201.png" media-type="image/png" />
-		<item id="x5202.png" href="image/5202.png" media-type="image/png" />
 		<item id="x5203.png" href="image/5203.png" media-type="image/png" />
-		<item id="x5366.png" href="image/5366.png" media-type="image/png" />
-		<item id="x5367.png" href="image/5367.png" media-type="image/png" />
 		<item id="x5534.png" href="image/5534.png" media-type="image/png" />
 		<item id="x5535.png" href="image/5535.png" media-type="image/png" />
 		<item id="x5536.png" href="image/5536.png" media-type="image/png" />
 		<item id="x5537.png" href="image/5537.png" media-type="image/png" />
 		<item id="checklist.png" href="image/checklist.svg" media-type="image/svg+xml" />
 		<item id="cloud.png" href="image/cloud.svg" media-type="image/svg+xml" />
-		<item id="exit_I_resolve_it.png" href="image/exit_I_resolve_it.png" media-type="image/png" />
 		<item id="leader.png" href="image/leader.svg" media-type="image/svg+xml" />
 		<item id="route.png" href="image/route.svg" media-type="image/svg+xml" />
 	</manifest>
