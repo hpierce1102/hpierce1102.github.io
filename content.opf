@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 10.1" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>infograph_1142</dc:title>
+		<dc:date>2014-11-15T01:29:19Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2014-11-15T01:29:19Z</meta>
+		<dc:identifier id="bookid">urn:uuid:A6D0CC1B-E03A-450D-B74D-24B046BEEB54</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="infograph_114-1" properties="scripted svg" href="infograph_114-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="jquery" href="js/jquery-2.1.1.min.js" media-type="text/javascript" />
+		<item id="animate" href="js/animate.js" media-type="text/javascript" />
+		<item id="AovelSans-Bold.ttf" href="font/AovelSans-Bold.ttf" media-type="application/x-font-ttf" />
+		<item id="AovelSans.ttf" href="font/AovelSans.ttf" media-type="application/x-font-ttf" />
+		<item id="Axis.otf" href="font/Axis.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x4472.png" href="image/4472.png" media-type="image/png" />
+		<item id="x4473.png" href="image/4473.png" media-type="image/png" />
+		<item id="x4475.png" href="image/4475.png" media-type="image/png" />
+		<item id="x4476.png" href="image/4476.png" media-type="image/png" />
+		<item id="x4477.png" href="image/4477.png" media-type="image/png" />
+		<item id="x4478.png" href="image/4478.png" media-type="image/png" />
+		<item id="x4479.png" href="image/4479.png" media-type="image/png" />
+		<item id="x4480.png" href="image/4480.png" media-type="image/png" />
+		<item id="x4482.png" href="image/4482.png" media-type="image/png" />
+		<item id="x4483.png" href="image/4483.png" media-type="image/png" />
+		<item id="x4484.png" href="image/4484.png" media-type="image/png" />
+		<item id="x4485.png" href="image/4485.png" media-type="image/png" />
+		<item id="x4487.png" href="image/4487.png" media-type="image/png" />
+		<item id="x4488.png" href="image/4488.png" media-type="image/png" />
+		<item id="x4489.png" href="image/4489.png" media-type="image/png" />
+		<item id="x4490.png" href="image/4490.png" media-type="image/png" />
+		<item id="x4492.png" href="image/4492.png" media-type="image/png" />
+		<item id="x4493.png" href="image/4493.png" media-type="image/png" />
+		<item id="x4494.png" href="image/4494.png" media-type="image/png" />
+		<item id="x4495.png" href="image/4495.png" media-type="image/png" />
+		<item id="x4496.png" href="image/4496.png" media-type="image/png" />
+		<item id="x4497.png" href="image/4497.png" media-type="image/png" />
+		<item id="x4498.png" href="image/4498.png" media-type="image/png" />
+		<item id="x4499.png" href="image/4499.png" media-type="image/png" />
+		<item id="x4501.png" href="image/4501.png" media-type="image/png" />
+		<item id="x4502.png" href="image/4502.png" media-type="image/png" />
+		<item id="x4503.png" href="image/4503.png" media-type="image/png" />
+		<item id="x4504.png" href="image/4504.png" media-type="image/png" />
+		<item id="x4505.png" href="image/4505.png" media-type="image/png" />
+		<item id="x4506.png" href="image/4506.png" media-type="image/png" />
+		<item id="x4507.png" href="image/4507.png" media-type="image/png" />
+		<item id="x4509.png" href="image/4509.png" media-type="image/png" />
+		<item id="x4511.png" href="image/4511.png" media-type="image/png" />
+		<item id="x4512.png" href="image/4512.png" media-type="image/png" />
+		<item id="x4513.png" href="image/4513.png" media-type="image/png" />
+		<item id="x4514.png" href="image/4514.png" media-type="image/png" />
+		<item id="x4515.png" href="image/4515.png" media-type="image/png" />
+		<item id="x4516.png" href="image/4516.png" media-type="image/png" />
+		<item id="x4517.png" href="image/4517.png" media-type="image/png" />
+		<item id="x4518.png" href="image/4518.png" media-type="image/png" />
+		<item id="x4519.png" href="image/4519.png" media-type="image/png" />
+		<item id="x4520.png" href="image/4520.png" media-type="image/png" />
+		<item id="x4521.png" href="image/4521.png" media-type="image/png" />
+		<item id="x4522.png" href="image/4522.png" media-type="image/png" />
+		<item id="x4524.png" href="image/4524.png" media-type="image/png" />
+		<item id="x4525.png" href="image/4525.png" media-type="image/png" />
+		<item id="x4526.png" href="image/4526.png" media-type="image/png" />
+		<item id="x4527.png" href="image/4527.png" media-type="image/png" />
+		<item id="x4574.png" href="image/4574.png" media-type="image/png" />
+		<item id="x4575.png" href="image/4575.png" media-type="image/png" />
+		<item id="x4576.png" href="image/4576.png" media-type="image/png" />
+		<item id="x4577.png" href="image/4577.png" media-type="image/png" />
+		<item id="x4578.png" href="image/4578.png" media-type="image/png" />
+		<item id="x4579.png" href="image/4579.png" media-type="image/png" />
+		<item id="x4581.png" href="image/4581.png" media-type="image/png" />
+		<item id="x4582.png" href="image/4582.png" media-type="image/png" />
+		<item id="x4583.png" href="image/4583.png" media-type="image/png" />
+		<item id="x4584.png" href="image/4584.png" media-type="image/png" />
+		<item id="x4585.png" href="image/4585.png" media-type="image/png" />
+		<item id="x4586.png" href="image/4586.png" media-type="image/png" />
+		<item id="x4587.png" href="image/4587.png" media-type="image/png" />
+		<item id="x4588.png" href="image/4588.png" media-type="image/png" />
+		<item id="x4589.png" href="image/4589.png" media-type="image/png" />
+		<item id="x4590.png" href="image/4590.png" media-type="image/png" />
+		<item id="x4706.png" href="image/4706.png" media-type="image/png" />
+		<item id="x4707.png" href="image/4707.png" media-type="image/png" />
+		<item id="x4708.png" href="image/4708.png" media-type="image/png" />
+		<item id="x4709.png" href="image/4709.png" media-type="image/png" />
+		<item id="x4710.png" href="image/4710.png" media-type="image/png" />
+		<item id="x4711.png" href="image/4711.png" media-type="image/png" />
+		<item id="x5104.png" href="image/5104.png" media-type="image/png" />
+		<item id="x5105.png" href="image/5105.png" media-type="image/png" />
+		<item id="x5152.png" href="image/5152.png" media-type="image/png" />
+		<item id="x5153.png" href="image/5153.png" media-type="image/png" />
+		<item id="x5201.png" href="image/5201.png" media-type="image/png" />
+		<item id="x5202.png" href="image/5202.png" media-type="image/png" />
+		<item id="x5203.png" href="image/5203.png" media-type="image/png" />
+		<item id="x5366.png" href="image/5366.png" media-type="image/png" />
+		<item id="x5367.png" href="image/5367.png" media-type="image/png" />
+		<item id="x5534.png" href="image/5534.png" media-type="image/png" />
+		<item id="x5535.png" href="image/5535.png" media-type="image/png" />
+		<item id="x5536.png" href="image/5536.png" media-type="image/png" />
+		<item id="x5537.png" href="image/5537.png" media-type="image/png" />
+		<item id="checklist.png" href="image/checklist.svg" media-type="image/svg+xml" />
+		<item id="cloud.png" href="image/cloud.svg" media-type="image/svg+xml" />
+		<item id="exit_I_resolve_it.png" href="image/exit_I_resolve_it.png" media-type="image/png" />
+		<item id="leader.png" href="image/leader.svg" media-type="image/svg+xml" />
+		<item id="route.png" href="image/route.svg" media-type="image/svg+xml" />
+	</manifest>
+	<spine>
+		<itemref idref="infograph_114-1" />
+	</spine>
+</package>
