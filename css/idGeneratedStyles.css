@@ -2,19 +2,14 @@
 	font-family:"Aovel Sans";
 	font-style:normal;
 	font-weight:normal;
-	src : url("../font/AovelSans.ttf");
+	src : url("../font/ASansreg.ttf");
 }
-@font-face {
-	font-family:"Aovel Sans";
-	font-style:normal;
-	font-weight:normal;
-	src : url("../font/AovelSans-Bold.ttf");
-}
+
 @font-face {
 	font-family:"Axis";
 	font-style:normal;
 	font-weight:100;
-	src : url("../font/Axis.otf");
+	src : url("../font/Axis.ttf");
 }
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	margin:0;

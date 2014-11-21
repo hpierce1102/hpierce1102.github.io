@@ -19,9 +19,8 @@
 		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
 		<item id="jquery" href="js/jquery-2.1.1.min.js" media-type="text/javascript" />
 		<item id="animate" href="js/animate.js" media-type="text/javascript" />
-		<item id="AovelSans-Bold.ttf" href="font/AovelSans-Bold.ttf" media-type="application/x-font-ttf" />
-		<item id="AovelSans.ttf" href="font/AovelSans.ttf" media-type="application/x-font-ttf" />
-		<item id="Axis.otf" href="font/Axis.otf" media-type="application/vnd.ms-opentype" />
+		<item id="ASansreg.ttf" href="font/ASansreg.ttf" media-type="application/x-font-ttf" />
+		<item id="Axis.ttf" href="font/Axis.ttf" media-type="application/x-font-ttf" />
 		<item id="x4472.png" href="image/4472.png" media-type="image/png" />
 		<item id="x4473.png" href="image/4473.png" media-type="image/png" />
 		<item id="x4475.png" href="image/4475.png" media-type="image/png" />
