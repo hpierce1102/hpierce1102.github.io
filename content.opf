@@ -77,6 +77,7 @@
 		<item id="cloud.png" href="image/cloud.svg" media-type="image/svg+xml" />
 		<item id="leader.png" href="image/leader.svg" media-type="image/svg+xml" />
 		<item id="route.png" href="image/route.svg" media-type="image/svg+xml" />
+		<item id="repeat.png" href="image/repeat.svg" media-type="image/svg+xml" />
 	</manifest>
 	<spine>
 		<itemref idref="infograph_114-1" />

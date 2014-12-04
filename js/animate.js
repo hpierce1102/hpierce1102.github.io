@@ -12,8 +12,16 @@ var spawnQuestion = function(questionObject) {
 var spawnExitPath = function(exitPathId, questionBlockObject) {
     $('#' + exitPathId).fadeIn(fadeSpeed, function(){
         spawnQuestion(questionBlockObject)
-    });
-    console.log('Spawning Exit Path');    
+    });    
+}
+
+var reset = function() {
+    $('body').children().hide();
+
+    //static items should always be available (reset button and title text)
+    $('.static').show();
+    
+    spawnQuestion(Q1);
 }
 
 var Q1 = {
@@ -93,20 +101,14 @@ var leader = {
     'questionId': 'resultLeader'
 }
 
-//This will be used later
-var neverExitPath;
-
 //This starts everything off.
 $('body').ready( 
-    function() {
-        $('body').children().hide();
-
-        //Title text
-        $('#_idContainer096').show();
-        
-        spawnQuestion(Q1);
-    }
+    reset()
 );
+
+//When the button is clicked, it should reset the page
+//the same way it was when it was created.
+$('#spinnerWrapper').click(function(){reset()});
 //When an answer is clicked, it will trigger the path connected to it
 //which will then spawn the question that is connected to that path
 
