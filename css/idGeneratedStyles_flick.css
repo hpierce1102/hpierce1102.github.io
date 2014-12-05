@@ -1,0 +1,120 @@
+@font-face {
+	font-family:"Aovel Sans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/AovelSans-Black.ttf");
+}
+@font-face {
+	font-family:"Aovel Sans";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/AovelSans-Bold.ttf");
+}
+@font-face {
+	font-family:Axis;
+	font-style:normal;
+	font-weight:100;
+	src : url("../font/Axis.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	line-height:1;
+	white-space:nowrap;
+}
+span.CharOverride-1 {
+	color:#d55b43;
+	font-family:Axis, sans-serif;
+	font-size:1000px;
+	font-style:normal;
+	font-weight:100;
+}
+span.CharOverride-2 {
+	color:#352e40;
+	font-family:"Aovel Sans", sans-serif;
+	font-size:200px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#b1533e;
+	font-family:Axis, sans-serif;
+	font-size:220px;
+	font-style:normal;
+	font-weight:100;
+}
+span.CharOverride-4 {
+	color:#000000;
+	font-family:"Aovel Sans", sans-serif;
+	font-size:240px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000 {
+	height:505px;
+	left:0px;
+	position:absolute;
+	top:519px;
+	width:768px;
+}
+#_idContainer001 {
+	height:88px;
+	left:36px;
+	position:absolute;
+	top:26px;
+	width:590px;
+}
+#_idContainer002 {
+	height:4px;
+	left:36px;
+	position:absolute;
+	top:114px;
+	width:133px;
+}
+#_idContainer003 {
+	height:19px;
+	left:36px;
+	position:absolute;
+	top:121px;
+	width:220px;
+}
+#_idContainer004 {
+	height:336px;
+	left:36px;
+	position:absolute;
+	top:168px;
+	width:697px;
+}
+#_idContainer005, #_idContainer006 {
+	height:505px;
+	left:70px;
+	position:absolute;
+	top:519px;
+	width:618px;
+}
+img._idGenObjectAttribute-1 {
+	height:100%;
+	min-width:100%;
+	width:100%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
